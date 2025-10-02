@@ -1,4 +1,4 @@
-# ❄️🐳 Fourth Industrial Systems — Cloud‑Native AI/ML on Kubernetes
+# ❄️🐳 4th — Cloud‑Native AI/ML on Kubernetes
 
 Curated by **Fourth Industrial Systems (4th.is)**, this guide highlights open‑source tools and patterns for **AI, Deep Learning, Machine Learning, Computer Vision, Data Science, and Analytics** designed to run **natively on [Kubernetes](http://kubernetes.io/)** and **[Docker](https://www.docker.com/)**. We work across languages — [Python](https://www.anaconda.com/download/), [R](https://mran.microsoft.com/open), [Scala](https://github.com/JetBrains/intellij-scala-bundle), [Java](http://www.oracle.com/technetwork/java/javase/downloads/jdk10-downloads-4416644.html), [C#](https://github.com/dotnet/core), [Go](https://golang.org/), [Julia](https://julialang.org/downloads/), [C++](https://isocpp.org/) — with practical emphasis on **Kubeflow**, **Seldon Core**, **Pachyderm**, **Banzai Pipeline**, **H2O**, **TensorFlow**, **CNTK**, **XGBoost**, **MXNet**, **PyTorch**, **ONNX**, **Argo**, **Airflow**, **Apache Beam**, **Apache Spark**, **Intel BigDL**, **Rook**, and **Ambassador**.
 
