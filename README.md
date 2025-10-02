@@ -265,6 +265,6 @@ The **podder‑ai** ecosystem offers related components:
 ### About Fourth Industrial Systems
 
 **Fourth Industrial Systems** builds scalable, ethical AI solutions and agentic workflows that move seamlessly from **prototype to production** on Kubernetes.  
-Contact: **info@4th.is** • Learn: **learn.4th.is** • News: **news.4th.is**
+Contact: **freeman@4th.is** • Learn: **learn.4th.is** • News: **news.4th.is**
 
 **Trademarks**: Kubernetes®, Apache®, NVIDIA®, and other names are the property of their respective owners; references are for identification only and imply no endorsement.
